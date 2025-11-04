@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋 I'm CHAN XIN QUAN
 
-<!--
-**xquan16/xquan16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a proactive and technically-skilled Computer Science (AI) student.
 
-Here are some ideas to get you started:
+Seeking a challenging internship to apply skills in software development, data science, and artificial intelligence to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Skills
+
+* **Programming Languages:** Python, Java, R, C#, SQL, Assembly
+* **AI & Data Science:** Ant Colony Optimization (ACO), Swarm Intelligence, Algorithm Design, Data Analysis
+* **Cloud & DevOps:** AWS (Lambda, DynamoDB, S3, API Gateway, SNS), Serverless Architecture
+* **Systems & Networking:** Linux (Rocky, Ubuntu), Red Hat System Administration (RH124), Apache, SSL/TLS
+* **Databases:** MySQL 8.0 (OCP Certified), SQL Server, Amazon DynamoDB
