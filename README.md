@@ -12,8 +12,6 @@ I am currently focused on software development, data science, and AI, and am alw
     * Python, Java, R, C#, SQL, Assembly Language
 * **AI & Data Science:**
     * Ant Colony Optimization (ACO), Swarm Intelligence, Algorithm Design, Data Analysis
-* **Cloud & DevOps:**
-    * AWS (Lambda, DynamoDB, S3, API Gateway, SNS), Serverless Architecture
 * **Systems & Networking:**
     * Linux (Rocky, Ubuntu), Red Hat System Administration (RH124), Apache Web Server, SSL/TLS
 * **Databases:**
