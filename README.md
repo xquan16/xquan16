@@ -1,4 +1,5 @@
 ### 👋 Hi, I'm CHAN XIN QUAN
+## 🌐 [Check out my Personal Portfolio Website!](https://xquan16.github.io/About-me/)
 
 I'm a Computer Science (Artificial Intelligence) student passionate about building solutions and solving real-world problems with technology.
 
